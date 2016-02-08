@@ -1,2 +1,3 @@
 # coding_practice
-Sample readme file
+- Data Structures
+- Algorithm
