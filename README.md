@@ -1,3 +1,3 @@
 # coding_practice
-- Data Structures
+- Data Structures - linked list, trees, graph
 - Algorithm
